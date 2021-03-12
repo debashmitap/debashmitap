@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Debashmita Poddar
-- 👀 I’m interested in SNA (Social Network Analysis) 
+- 👋 Hi, I’m Debashmita Poddar.
+- 👀 I’m interested in SNA (Social Network Analysis). 
 - 🌱 I’m currently learning about the computational complexities of SNA.
 - 📫 Reach me at: deboshmitapoddar@gmail.com
 
